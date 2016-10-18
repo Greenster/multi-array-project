@@ -1,4 +1,4 @@
-#Java Project
+#Multi-Array-Project
 
 *Java Project which contains a simple Java Application*
 
